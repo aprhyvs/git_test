@@ -1,1 +1,17 @@
 Hello World!
+
+2/13/2025
+
+A good commit message goes like this:
+
+Subject:
+This is the change I made to the codebase
+
+Body:
+Describe the problem your commit solves and how.
+
+ex:
+
+Add missing link and alt text to the company's logo
+
+Screen readers won't read the images to users with disabilities without this information.
