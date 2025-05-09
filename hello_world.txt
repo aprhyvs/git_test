@@ -15,3 +15,8 @@ ex:
 Add missing link and alt text to the company's logo
 
 Screen readers won't read the images to users with disabilities without this information.
+
+5/9/2025
+
+I set up a new git for windows just in case when working for other stuff. 
+I will be using the WSL one for learning.
